@@ -2,7 +2,7 @@ ref: https://r-knott.surrey.ac.uk/Fibonacci/fibtable.html
 
 ref: https://github.com/msgpack/msgpack/blob/master/spec.md#int-format-family
 
-ref: https://math.stackexchange.com/a/3392157
+ref: https://math.stackexchange.com/a/3392157 (O(1) algorithm)
 
 ### Purpose
 This repo contains a web server which can return the fibonacci number after the one sent.
